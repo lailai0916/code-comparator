@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://www.lailai.one/docs/contest/personal/code-comparator">Code Comparator</a>
+  Code Comparator
 </h1>
 <p align="center">
   <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a>
