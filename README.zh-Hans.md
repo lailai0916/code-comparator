@@ -7,7 +7,7 @@
 
 ## # 项目简介
 
-A lightweight code comparator for OI (Olympiad in Informatics).
+一个用于信息学奥林匹克竞赛（OI）的轻量级代码对拍器。
 
 ## # 快速开始
 

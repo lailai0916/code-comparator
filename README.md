@@ -7,7 +7,7 @@
 
 ## # Project Introduction
 
-A lightweight code comparator for OI (Olympiad in Informatics).
+A lightweight code comparator for Olympiad in Informatics (OI).
 
 ## # Getting Started
 
