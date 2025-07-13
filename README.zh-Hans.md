@@ -1,9 +1,7 @@
-<h1 align="center">
-  Code Comparator
-</h1>
-<p align="center">
-  <a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a>
-</p>
+<div align="center">
+  <h1>Code Comparator</h1>
+  <p><a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a></p>
+</div>
 
 ## # 项目简介
 
