@@ -32,6 +32,6 @@ code-comparator
 └── sol.exe                        # 待测程序
 ```
 
-## # 许可证
+## # 许可协议
 
 本项目遵循 [MIT 许可协议](LICENSE)。
