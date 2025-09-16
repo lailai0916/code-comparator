@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Code Comparator</h1>
-  <p><a href="README.md">English</a> | <a href="README.zh-Hans.md">简体中文</a></p>
+  <p>English | <a href="README.zh-Hans.md">简体中文</a></p>
 </div>
 
 ## # Project Introduction
