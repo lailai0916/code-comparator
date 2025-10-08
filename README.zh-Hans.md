@@ -34,4 +34,4 @@ code-comparator
 
 ## # 许可协议
 
-本项目遵循 [MIT 许可协议](LICENSE)。
+本项目采用 [MIT 许可协议](LICENSE)。
