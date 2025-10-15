@@ -3,11 +3,11 @@
   <p>English | <a href="README.zh-Hans.md">简体中文</a></p>
 </div>
 
-## # Project Introduction
+## Project Introduction
 
 A lightweight code comparator for Olympiad in Informatics (OI).
 
-## # Getting Started
+## Getting Started
 
 ```bash
 git clone https://github.com/lailai0916/code-comparator.git
@@ -17,10 +17,10 @@ cd code-comparator
 > [!Warning]
 > All C++ programs must not use file I/O operations.
 
-## # Project Structure
+## Project Structure
 
 ```bash
-code-comparator
+code-comparator/
 ├── main.bat                       # Batch script
 ├── lite.bat                       # Lightweight batch script
 ├── lite.sh                        # Shell version of the batch script
@@ -32,6 +32,6 @@ code-comparator
 └── sol.exe                        # Compiled program under test
 ```
 
-## # License
+## License
 
 This project licensed under [MIT License](LICENSE).

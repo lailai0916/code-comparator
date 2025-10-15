@@ -3,11 +3,11 @@
   <p><a href="README.md">English</a> | 简体中文</p>
 </div>
 
-## # 项目简介
+## 项目简介
 
 一个用于信息学奥林匹克竞赛（OI）的轻量级代码对拍器。
 
-## # 快速开始
+## 快速开始
 
 ```bash
 git clone https://github.com/lailai0916/code-comparator.git
@@ -17,10 +17,10 @@ cd code-comparator
 > [!Warning]
 > 所有 C++ 程序请勿使用文件读写操作。
 
-## # 项目结构
+## 项目结构
 
 ```bash
-code-comparator
+code-comparator/
 ├── main.bat                       # 批处理脚本
 ├── lite.bat                       # 批处理脚本（轻量版）
 ├── lite.sh                        # 批处理脚本（Shell 版）
@@ -32,6 +32,6 @@ code-comparator
 └── sol.exe                        # 待测程序
 ```
 
-## # 许可协议
+## 许可协议
 
 本项目采用 [MIT 许可协议](LICENSE)。
