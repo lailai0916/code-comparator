@@ -3,10 +3,6 @@
   <p><a href="README.md">English</a> | 简体中文</p>
 </div>
 
-## 项目简介
-
-一个用于信息学奥林匹克竞赛（OI）的轻量级代码对拍器。
-
 ## 快速开始
 
 ```bash
@@ -15,6 +11,7 @@ cd code-comparator
 ```
 
 > [!Warning]
+>
 > 所有 C++ 程序请勿使用文件读写操作。
 
 ## 项目结构

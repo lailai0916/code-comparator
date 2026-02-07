@@ -3,10 +3,6 @@
   <p>English | <a href="README.zh-Hans.md">简体中文</a></p>
 </div>
 
-## Project Introduction
-
-A lightweight code comparator for Olympiad in Informatics (OI).
-
 ## Getting Started
 
 ```bash
@@ -15,6 +11,7 @@ cd code-comparator
 ```
 
 > [!Warning]
+>
 > All C++ programs must not use file I/O operations.
 
 ## Project Structure
@@ -22,8 +19,8 @@ cd code-comparator
 ```bash
 code-comparator/
 ├── main.bat                       # Batch script
-├── lite.bat                       # Lightweight batch script
-├── lite.sh                        # Shell version of the batch script
+├── lite.bat                       # Batch script (lightweight version)
+├── lite.sh                        # Batch script (shell version)
 ├── gen.cpp                        # Source code of the data generator
 ├── std.cpp                        # Source code of the standard solution
 ├── sol.cpp                        # Source code of the program under test
