@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Code Comparator</h1>
+  <h1>代码对拍器</h1>
   <p><a href="README.md">English</a> | 简体中文</p>
 </div>
 
