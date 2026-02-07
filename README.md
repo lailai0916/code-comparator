@@ -31,4 +31,4 @@ code-comparator/
 
 ## License
 
-This project licensed under [MIT License](LICENSE).
+This project is licensed under [MIT License](LICENSE).
