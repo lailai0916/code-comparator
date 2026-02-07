@@ -3,16 +3,16 @@
   <p>English | <a href="README.zh-Hans.md">简体中文</a></p>
 </div>
 
+> [!Warning]
+>
+> All C++ programs must not use file I/O operations.
+
 ## Getting Started
 
 ```bash
 git clone https://github.com/lailai0916/code-comparator.git
 cd code-comparator
 ```
-
-> [!Warning]
->
-> All C++ programs must not use file I/O operations.
 
 ## Project Structure
 

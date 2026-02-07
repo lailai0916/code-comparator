@@ -3,16 +3,16 @@
   <p><a href="README.md">English</a> | 简体中文</p>
 </div>
 
+> [!Warning]
+>
+> 所有 C++ 程序请勿使用文件读写操作。
+
 ## 快速开始
 
 ```bash
 git clone https://github.com/lailai0916/code-comparator.git
 cd code-comparator
 ```
-
-> [!Warning]
->
-> 所有 C++ 程序请勿使用文件读写操作。
 
 ## 项目结构
 
