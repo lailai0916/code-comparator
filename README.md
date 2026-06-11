@@ -18,15 +18,15 @@ cd code-comparator
 
 ```bash
 code-comparator/
-├── main.bat                       # Batch script
-├── lite.bat                       # Batch script (lightweight version)
-├── lite.sh                        # Batch script (shell version)
-├── gen.cpp                        # Source code of the data generator
-├── std.cpp                        # Source code of the standard solution
-├── sol.cpp                        # Source code of the program under test
-├── gen.exe                        # Compiled data generator
-├── std.exe                        # Compiled standard solution
-└── sol.exe                        # Compiled program under test
+├── main.bat                        # Batch script
+├── lite.bat                        # Batch script (lightweight version)
+├── lite.sh                         # Batch script (shell version)
+├── gen.cpp                         # Source code of the data generator
+├── std.cpp                         # Source code of the standard solution
+├── sol.cpp                         # Source code of the program under test
+├── gen.exe                         # Compiled data generator
+├── std.exe                         # Compiled standard solution
+└── sol.exe                         # Compiled program under test
 ```
 
 ## License
