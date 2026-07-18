@@ -9,6 +9,8 @@
   </p>
 </div>
 
+## 项目简介
+
 轻量的信息学竞赛程序对拍器。它持续生成随机输入，分别运行标准程序与待测程序，并在
 第一次出现输出差异时停止。
 
@@ -16,7 +18,7 @@
 >
 > 参与对拍的程序必须使用标准输入输出，不要使用文件读写。
 
-## 特性
+## 项目特性
 
 ⚡ **短反馈循环** —— 生成、运行、比较并重复，直到找到失败数据。
 
@@ -54,17 +56,19 @@ lite.bat
 `lite.*` 在仓库根目录比较临时文件。`main.bat` 会在 `data/` 中保留失败输入、标准
 输出与实际输出，并带标签打印。
 
-## 结构
+## 项目结构
 
-```text
-gen.cpp                             # 随机数据生成器
-std.cpp                             # 可信标准程序
-sol.cpp                             # 待测程序
-lite.sh                             # Unix 对拍循环
-lite.bat                            # Windows 精简循环
-main.bat                            # 保留失败数据的 Windows 循环
+```bash
+code-comparator/
+├── gen.cpp                         # 随机数据生成器
+├── std.cpp                         # 可信标准程序
+├── sol.cpp                         # 待测程序
+├── lite.sh                         # Unix 对拍循环
+├── lite.bat                        # Windows 精简循环
+├── main.bat                        # 保留失败数据的 Windows 循环
+└── LICENSE                         # 代码许可协议
 ```
 
-## 许可
+## 许可协议
 
-采用 [MIT License](LICENSE)。
+本项目代码采用 [MIT 许可协议](LICENSE)。
